@@ -4,4 +4,5 @@
 
 视频地址： https://www.bilibili.com/video/BV1Rf4y1J7CY/
 
-https://raw.githubusercontent.com/veraZhang666/CovidReplyRobot/main/webpage2.png
+![Image text](https://raw.githubusercontent.com/veraZhang666/CovidReplyRobot/main/webpage2.png)
+
